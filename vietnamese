@@ -96,7 +96,7 @@
 <item id="_18">
  <cat>&lt;default&gt;</cat>
  <Q>My name is ..</Q>
- <A>Tên của tôi là</A>
+ <A>Tên của tôi là ..</A>
 </item>
 <item id="_19">
  <cat>&lt;default&gt;</cat>
@@ -155,8 +155,8 @@
 </item>
 <item id="_30">
  <cat>&lt;default&gt;</cat>
- <Q>Hundred</Q>
- <A>Trăm</A>
+ <Q>What is that? (politely)</Q>
+ <A>Cái đó là gì vậy</A>
 </item>
 <item id="_31">
  <cat>&lt;default&gt;</cat>
@@ -1217,5 +1217,10 @@
  <cat>&lt;default&gt;</cat>
  <Q>Ðánh bống</Q>
  <A>to iron</A>
+</item>
+<item id="_243">
+ <cat>&lt;default&gt;</cat>
+ <Q>Hundred</Q>
+ <A>Trăm</A>
 </item>
 </mnemosyne>
