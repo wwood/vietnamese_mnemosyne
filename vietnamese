@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mnemosyne core_version="1" >
+<category active="1">
+ <name>&lt;default&gt;</name>
+</category>
+<item id="_0">
+ <cat>&lt;default&gt;</cat>
+ <Q>I</Q>
+ <A>Tôi</A>
+</item>
+<item id="_1">
+ <cat>&lt;default&gt;</cat>
+ <Q>You</Q>
+ <A>Ông/Bà (older male/female) or Anh/Chị(about same age male/feamle) or Em (younger male or female kid)</A>
+</item>
+<item id="_2">
+ <cat>&lt;default&gt;</cat>
+ <Q>How are you?</Q>
+ <A>Anh khoẻ không? (Whenever you see Anh in Italic please keep in mind of the sex/age of the person you speak with and change to appropriate word as describe above)</A>
+</item>
+<item id="_3">
+ <cat>&lt;default&gt;</cat>
+ <Q>Very well, thank you</Q>
+ <A>Khoẻ, cám ơn</A>
+</item>
+<item id="_4">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thank you</Q>
+ <A>Cám ơn</A>
+</item>
+<item id="_5">
+ <cat>&lt;default&gt;</cat>
+ <Q>You're welcome</Q>
+ <A>Không có chi (same expression as "oh it's nothing")</A>
+</item>
+<item id="_6">
+ <cat>&lt;default&gt;</cat>
+ <Q>Hello, Goodbye</Q>
+ <A>Chào anh (change "Anh" to appropriate word as described above)</A>
+</item>
+<item id="_7">
+ <cat>&lt;default&gt;</cat>
+ <Q>Please</Q>
+ <A>Làm ơn</A>
+</item>
+<item id="_8">
+ <cat>&lt;default&gt;</cat>
+ <Q>Yes</Q>
+ <A>Có or ( Thao says Ya) or Vung</A>
+</item>
+<item id="_9">
+ <cat>&lt;default&gt;</cat>
+ <Q>No</Q>
+ <A>Không, Không có</A>
+</item>
+<item id="_10">
+ <cat>&lt;default&gt;</cat>
+ <Q>Maybe</Q>
+ <A>Có thể</A>
+</item>
+<item id="_11">
+ <cat>&lt;default&gt;</cat>
+ <Q>Pardon me</Q>
+ <A>Xin lổi</A>
+</item>
+<item id="_12">
+ <cat>&lt;default&gt;</cat>
+ <Q>Do you speak English</Q>
+ <A>Anh nói tiếng Anh không?</A>
+</item>
+<item id="_13">
+ <cat>&lt;default&gt;</cat>
+ <Q>To speak</Q>
+ <A>Nói</A>
+</item>
+<item id="_14">
+ <cat>&lt;default&gt;</cat>
+ <Q>English  (language)</Q>
+ <A>Tếng Anh</A>
+</item>
+<item id="_15">
+ <cat>&lt;default&gt;</cat>
+ <Q>I speak a little</Q>
+ <A>Tôi nói chút đỉnh</A>
+</item>
+<item id="_16">
+ <cat>&lt;default&gt;</cat>
+ <Q>Do you understand?</Q>
+ <A>Anh có hiểu không?</A>
+</item>
+<item id="_17">
+ <cat>&lt;default&gt;</cat>
+ <Q>I don't understand</Q>
+ <A>Tôi không có hiểu</A>
+</item>
+<item id="_18">
+ <cat>&lt;default&gt;</cat>
+ <Q>My name is ..</Q>
+ <A>Tên của tôi là</A>
+</item>
+<item id="_19">
+ <cat>&lt;default&gt;</cat>
+ <Q>My, mine</Q>
+ <A>Của tôi</A>
+</item>
+<item id="_20">
+ <cat>&lt;default&gt;</cat>
+ <Q>What is your name?</Q>
+ <A>Tên của anh là gì</A>
+</item>
+<item id="_21">
+ <cat>&lt;default&gt;</cat>
+ <Q>Your, yours</Q>
+ <A>Của anh</A>
+</item>
+<item id="_22">
+ <cat>&lt;default&gt;</cat>
+ <Q>1, 2, 3, 4, 5, 6, 7, 8, 9</Q>
+ <A>Một, Hai, Ba, Bốn, Năm, Sáu, Bảy, Tám, Chín.</A>
+</item>
+<item id="_23">
+ <cat>&lt;default&gt;</cat>
+ <Q>10, 11, 12,.. 19</Q>
+ <A>Mười, Mười Một, Mười Hai.. , Mười Chín</A>
+</item>
+<item id="_24">
+ <cat>&lt;default&gt;</cat>
+ <Q>20, 21, 22,…, 29</Q>
+ <A>Hai mươi, Hai mươi mốt, Hai mươi hai.. ,Hai mươi chín.</A>
+</item>
+<item id="_25">
+ <cat>&lt;default&gt;</cat>
+ <Q>40, 50, ..,100</Q>
+ <A>Bốn mươi, Năm mươi,.. Một trăm</A>
+</item>
+<item id="_26">
+ <cat>&lt;default&gt;</cat>
+ <Q>143</Q>
+ <A>Một trãm bôìn mýõi ba</A>
+</item>
+<item id="_27">
+ <cat>&lt;default&gt;</cat>
+ <Q>200, 300, .. ., 1000</Q>
+ <A>Hai trãm, ba trãm,.. . Môòt ngàn.</A>
+</item>
+<item id="_28">
+ <cat>&lt;default&gt;</cat>
+ <Q>1143</Q>
+ <A>Một ngàn một trãm bốn mươi ba</A>
+</item>
+<item id="_29">
+ <cat>&lt;default&gt;</cat>
+ <Q>2000, 3000,.. .,10000000</Q>
+ <A>Hai ngàn, Ba ngàn, Một triệu</A>
+</item>
+<item id="_30">
+ <cat>&lt;default&gt;</cat>
+ <Q>Hundred</Q>
+ <A>Trăm</A>
+</item>
+<item id="_31">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thousand</Q>
+ <A>Ngàn</A>
+</item>
+<item id="_32">
+ <cat>&lt;default&gt;</cat>
+ <Q>Million</Q>
+ <A>Triệu</A>
+</item>
+<item id="_33">
+ <cat>&lt;default&gt;</cat>
+ <Q>Billion</Q>
+ <A>Tỉ</A>
+</item>
+<item id="_34">
+ <cat>&lt;default&gt;</cat>
+ <Q>What is your phone number?</Q>
+ <A>Số điện thoại của anh là gì?</A>
+</item>
+<item id="_35">
+ <cat>&lt;default&gt;</cat>
+ <Q>555-1212</Q>
+ <A>Năm năm năm một hai một hai</A>
+</item>
+<item id="_36">
+ <cat>&lt;default&gt;</cat>
+ <Q>How old are you?</Q>
+ <A>Anh bao nhiêu tuổi ?</A>
+</item>
+<item id="_37">
+ <cat>&lt;default&gt;</cat>
+ <Q>I am thirty five years old</Q>
+ <A>Tôi được ba mươi lăm tuổi</A>
+</item>
+<item id="_38">
+ <cat>&lt;default&gt;</cat>
+ <Q>How much this cost?</Q>
+ <A>Cái này giìa bao nhiêu?</A>
+</item>
+<item id="_39">
+ <cat>&lt;default&gt;</cat>
+ <Q>One million two thousand</Q>
+ <A>Một triệu hai ngàn</A>
+</item>
+<item id="_40">
+ <cat>&lt;default&gt;</cat>
+ <Q>Second(s)</Q>
+ <A>Giây</A>
+</item>
+<item id="_41">
+ <cat>&lt;default&gt;</cat>
+ <Q>Minute(s)</Q>
+ <A>Phút</A>
+</item>
+<item id="_42">
+ <cat>&lt;default&gt;</cat>
+ <Q>Hour(s)</Q>
+ <A>Giờ</A>
+</item>
+<item id="_43">
+ <cat>&lt;default&gt;</cat>
+ <Q>What time is it?</Q>
+ <A>Mấy giờ rồi ?</A>
+</item>
+<item id="_44">
+ <cat>&lt;default&gt;</cat>
+ <Q>.. one thirty</Q>
+ <A>Một giờ ba mươi phút, (or) Một giờ rưởi</A>
+</item>
+<item id="_45">
+ <cat>&lt;default&gt;</cat>
+ <Q>The train leaves at two</Q>
+ <A>Xe lửa đi lúc hai giờ</A>
+</item>
+<item id="_46">
+ <cat>&lt;default&gt;</cat>
+ <Q>I get up at seven.</Q>
+ <A>Tôi dậy lúc bảy giờ</A>
+</item>
+<item id="_47">
+ <cat>&lt;default&gt;</cat>
+ <Q>Today</Q>
+ <A>Hôm nay</A>
+</item>
+<item id="_48">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tomorrow</Q>
+ <A>Ngày mai</A>
+</item>
+<item id="_49">
+ <cat>&lt;default&gt;</cat>
+ <Q>Yesterday</Q>
+ <A>Hôm qua</A>
+</item>
+<item id="_50">
+ <cat>&lt;default&gt;</cat>
+ <Q>Night</Q>
+ <A>Buổi tối</A>
+</item>
+<item id="_51">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tonight</Q>
+ <A>Buổi tối hôm nay</A>
+</item>
+<item id="_52">
+ <cat>&lt;default&gt;</cat>
+ <Q>Lastnight</Q>
+ <A>Buổi tối hôm qua</A>
+</item>
+<item id="_53">
+ <cat>&lt;default&gt;</cat>
+ <Q>Noon</Q>
+ <A>Buổi trưa</A>
+</item>
+<item id="_54">
+ <cat>&lt;default&gt;</cat>
+ <Q>Evening</Q>
+ <A>Buổi Chiều</A>
+</item>
+<item id="_55">
+ <cat>&lt;default&gt;</cat>
+ <Q>Morning</Q>
+ <A>Buổi sáng</A>
+</item>
+<item id="_56">
+ <cat>&lt;default&gt;</cat>
+ <Q>Transportation</Q>
+ <A>Where is ..</A>
+</item>
+<item id="_57">
+ <cat>&lt;default&gt;</cat>
+ <Q>Đâu là ..</Q>
+ <A>.. the ticket office?</A>
+</item>
+<item id="_58">
+ <cat>&lt;default&gt;</cat>
+ <Q>.. phòng bán vé</Q>
+ <A>.. the train station?</A>
+</item>
+<item id="_59">
+ <cat>&lt;default&gt;</cat>
+ <Q>.. trạm xe lửa</Q>
+ <A>.. the airport?</A>
+</item>
+<item id="_60">
+ <cat>&lt;default&gt;</cat>
+ <Q>.. phi trường</Q>
+ <A>.. the restroom?</A>
+</item>
+<item id="_61">
+ <cat>&lt;default&gt;</cat>
+ <Q>.. nhà cầu</Q>
+ <A>What time does the ferry leave?</A>
+</item>
+<item id="_62">
+ <cat>&lt;default&gt;</cat>
+ <Q>Mấy giờ phà đi?</Q>
+ <A>the ferry</A>
+</item>
+<item id="_63">
+ <cat>&lt;default&gt;</cat>
+ <Q>Phà, tàu</Q>
+ <A>the train</A>
+</item>
+<item id="_64">
+ <cat>&lt;default&gt;</cat>
+ <Q>Xe lửa</Q>
+ <A>the plane</A>
+</item>
+<item id="_65">
+ <cat>&lt;default&gt;</cat>
+ <Q>Máy bay</Q>
+ <A>the bus</A>
+</item>
+<item id="_66">
+ <cat>&lt;default&gt;</cat>
+ <Q>Xe búyt, xe đò</Q>
+ <A>to arrive</A>
+</item>
+<item id="_67">
+ <cat>&lt;default&gt;</cat>
+ <Q>Đến</Q>
+ <A>This is my ..</A>
+</item>
+<item id="_68">
+ <cat>&lt;default&gt;</cat>
+ <Q>Đây là .. của tôi.</Q>
+ <A>This is my luggage</A>
+</item>
+<item id="_69">
+ <cat>&lt;default&gt;</cat>
+ <Q>Đây là hành lý của tôi</Q>
+ <A>luggage</A>
+</item>
+<item id="_70">
+ <cat>&lt;default&gt;</cat>
+ <Q>hành lý, va li</Q>
+ <A>passport</A>
+</item>
+<item id="_71">
+ <cat>&lt;default&gt;</cat>
+ <Q>Giấy passport</Q>
+ <A>ticket</A>
+</item>
+<item id="_72">
+ <cat>&lt;default&gt;</cat>
+ <Q>vé</Q>
+ <A>Who ?</A>
+</item>
+<item id="_73">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ai ?</Q>
+ <A>What?</A>
+</item>
+<item id="_74">
+ <cat>&lt;default&gt;</cat>
+ <Q>Cái gì?</Q>
+ <A>Where?</A>
+</item>
+<item id="_75">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðâu?</Q>
+ <A>When?</A>
+</item>
+<item id="_76">
+ <cat>&lt;default&gt;</cat>
+ <Q>Khi nào? Lúc nào</Q>
+ <A>Why?</A>
+</item>
+<item id="_77">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tại sao?</Q>
+ <A>Because</A>
+</item>
+<item id="_78">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tại vì</Q>
+ <A>How?</A>
+</item>
+<item id="_79">
+ <cat>&lt;default&gt;</cat>
+ <Q>Làm sao?</Q>
+ <A>How much?</A>
+</item>
+<item id="_80">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bao nhiêu?</Q>
+ <A>How many?</A>
+</item>
+<item id="_81">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bao nhiêu cái?</Q>
+ <A>How far?</A>
+</item>
+<item id="_82">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bao nhiêu xa?</Q>
+ <A>No more ..</A>
+</item>
+<item id="_83">
+ <cat>&lt;default&gt;</cat>
+ <Q>Hết</Q>
+ <A>Gasoline</A>
+</item>
+<item id="_84">
+ <cat>&lt;default&gt;</cat>
+ <Q>Xăng</Q>
+ <A>Oil Dầu,</A>
+</item>
+<item id="_85">
+ <cat>&lt;default&gt;</cat>
+ <Q>nhớt</Q>
+ <A>Air</A>
+</item>
+<item id="_86">
+ <cat>&lt;default&gt;</cat>
+ <Q>Hơi</Q>
+ <A>Water</A>
+</item>
+<item id="_87">
+ <cat>&lt;default&gt;</cat>
+ <Q>Nước</Q>
+ <A>Battery</A>
+</item>
+<item id="_88">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bình điện</Q>
+ <A>Tires</A>
+</item>
+<item id="_89">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bánh xe</Q>
+ <A>Car</A>
+</item>
+<item id="_90">
+ <cat>&lt;default&gt;</cat>
+ <Q>Xe hơi</Q>
+ <A>Mechanic</A>
+</item>
+<item id="_91">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thợ sửa xe</Q>
+ <A>Can you fix it?</A>
+</item>
+<item id="_92">
+ <cat>&lt;default&gt;</cat>
+ <Q>Anh sửa được không?</Q>
+ <A>How long will it take?</A>
+</item>
+<item id="_93">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bao lâu sẽ xong?</Q>
+ <A>I am lost</A>
+</item>
+<item id="_94">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi bị lạc</Q>
+ <A>Please, where is ?</A>
+</item>
+<item id="_95">
+ <cat>&lt;default&gt;</cat>
+ <Q>Làm ơn chỉ giùm đâu là . ..</Q>
+ <A>police station</A>
+</item>
+<item id="_96">
+ <cat>&lt;default&gt;</cat>
+ <Q>Sỡ cãnh sát</Q>
+ <A>gas station</A>
+</item>
+<item id="_97">
+ <cat>&lt;default&gt;</cat>
+ <Q>Trạm xăng</Q>
+ <A>station</A>
+</item>
+<item id="_98">
+ <cat>&lt;default&gt;</cat>
+ <Q>Trạm</Q>
+ <A>hotel</A>
+</item>
+<item id="_99">
+ <cat>&lt;default&gt;</cat>
+ <Q>Khách sạn</Q>
+ <A>restaurant</A>
+</item>
+<item id="_100">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tiệm ăn, nhà hàng, quán ăn</Q>
+ <A>Right</A>
+</item>
+<item id="_101">
+ <cat>&lt;default&gt;</cat>
+ <Q>Phải</Q>
+ <A>Left</A>
+</item>
+<item id="_102">
+ <cat>&lt;default&gt;</cat>
+ <Q>Trái</Q>
+ <A>Front</A>
+</item>
+<item id="_103">
+ <cat>&lt;default&gt;</cat>
+ <Q>Trước</Q>
+ <A>Back, behind, rear</A>
+</item>
+<item id="_104">
+ <cat>&lt;default&gt;</cat>
+ <Q>Sau</Q>
+ <A>Kilometer</A>
+</item>
+<item id="_105">
+ <cat>&lt;default&gt;</cat>
+ <Q>Cây số, ki lo mét</Q>
+ <A>About</A>
+</item>
+<item id="_106">
+ <cat>&lt;default&gt;</cat>
+ <Q>Khoãng chừng</Q>
+ <A>Map</A>
+</item>
+<item id="_107">
+ <cat>&lt;default&gt;</cat>
+ <Q>Bản đồ</Q>
+ <A>I want ..</A>
+</item>
+<item id="_108">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi muốn . ..</Q>
+ <A>a room</A>
+</item>
+<item id="_109">
+ <cat>&lt;default&gt;</cat>
+ <Q>một phòng</Q>
+ <A>with bath</A>
+</item>
+<item id="_110">
+ <cat>&lt;default&gt;</cat>
+ <Q>có phòng tắm</Q>
+ <A>for one</A>
+</item>
+<item id="_111">
+ <cat>&lt;default&gt;</cat>
+ <Q>cho một</Q>
+ <A>person(s)</A>
+</item>
+<item id="_112">
+ <cat>&lt;default&gt;</cat>
+ <Q>người</Q>
+ <A>Can you Anh</A>
+</item>
+<item id="_113">
+ <cat>&lt;default&gt;</cat>
+ <Q>có thể</Q>
+ <A>bring</A>
+</item>
+<item id="_114">
+ <cat>&lt;default&gt;</cat>
+ <Q>mang . ..</Q>
+ <A>for me</A>
+</item>
+<item id="_115">
+ <cat>&lt;default&gt;</cat>
+ <Q>cho tôi</Q>
+ <A>toilet paper</A>
+</item>
+<item id="_116">
+ <cat>&lt;default&gt;</cat>
+ <Q>giấy đi cầu</Q>
+ <A>soap</A>
+</item>
+<item id="_117">
+ <cat>&lt;default&gt;</cat>
+ <Q>xà bông</Q>
+ <A>towels</A>
+</item>
+<item id="_118">
+ <cat>&lt;default&gt;</cat>
+ <Q>khăn lông</Q>
+ <A>blanket</A>
+</item>
+<item id="_119">
+ <cat>&lt;default&gt;</cat>
+ <Q>mền</Q>
+ <A>key</A>
+</item>
+<item id="_120">
+ <cat>&lt;default&gt;</cat>
+ <Q>chìa khóa</Q>
+ <A>Any messages for room number ..?</A>
+</item>
+<item id="_121">
+ <cat>&lt;default&gt;</cat>
+ <Q>Có ai nhắn tin cho phòng số.. . không?</Q>
+ <A>How much per night?</A>
+</item>
+<item id="_122">
+ <cat>&lt;default&gt;</cat>
+ <Q>Một đêm bao nhiêu?</Q>
+ <A>Monday</A>
+</item>
+<item id="_123">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thứ Hai</Q>
+ <A>Tuesday</A>
+</item>
+<item id="_124">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thứ Ba</Q>
+ <A>Wednesday</A>
+</item>
+<item id="_125">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thứ Tư</Q>
+ <A>Thursday</A>
+</item>
+<item id="_126">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thứ Năm</Q>
+ <A>Friday</A>
+</item>
+<item id="_127">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thứ Sáu</Q>
+ <A>Saturday</A>
+</item>
+<item id="_128">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thứ Bảy</Q>
+ <A>Sunday</A>
+</item>
+<item id="_129">
+ <cat>&lt;default&gt;</cat>
+ <Q>Chúa Nhật</Q>
+ <A>Month</A>
+</item>
+<item id="_130">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tháng</Q>
+ <A>January, Feburary, .., December</A>
+</item>
+<item id="_131">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tháng một, tháng hai, .. tháng mười hai (see numbers)</Q>
+ <A>Seasons</A>
+</item>
+<item id="_132">
+ <cat>&lt;default&gt;</cat>
+ <Q>Mùa</Q>
+ <A>Spring</A>
+</item>
+<item id="_133">
+ <cat>&lt;default&gt;</cat>
+ <Q>Mùa xuân</Q>
+ <A>Summer</A>
+</item>
+<item id="_134">
+ <cat>&lt;default&gt;</cat>
+ <Q>Mùa hè, mùa hạ</Q>
+ <A>Autumn</A>
+</item>
+<item id="_135">
+ <cat>&lt;default&gt;</cat>
+ <Q>Mùa thu</Q>
+ <A>Winter</A>
+</item>
+<item id="_136">
+ <cat>&lt;default&gt;</cat>
+ <Q>Mùa đông</Q>
+ <A>the menu menu,</A>
+</item>
+<item id="_137">
+ <cat>&lt;default&gt;</cat>
+ <Q>thực đơn</Q>
+ <A>I want</A>
+</item>
+<item id="_138">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi muốn</Q>
+ <A>to drink</A>
+</item>
+<item id="_139">
+ <cat>&lt;default&gt;</cat>
+ <Q>Uống</Q>
+ <A>to eat</A>
+</item>
+<item id="_140">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ăn</Q>
+ <A>coffee</A>
+</item>
+<item id="_141">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ccà phê</Q>
+ <A>beer</A>
+</item>
+<item id="_142">
+ <cat>&lt;default&gt;</cat>
+ <Q>bia</Q>
+ <A>wine</A>
+</item>
+<item id="_143">
+ <cat>&lt;default&gt;</cat>
+ <Q>Rượu</Q>
+ <A>soda</A>
+</item>
+<item id="_144">
+ <cat>&lt;default&gt;</cat>
+ <Q>soda</Q>
+ <A>breakfast</A>
+</item>
+<item id="_145">
+ <cat>&lt;default&gt;</cat>
+ <Q>Điểm tâm, ăn sáng</Q>
+ <A>lunch</A>
+</item>
+<item id="_146">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ăn trưa</Q>
+ <A>dinner</A>
+</item>
+<item id="_147">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ăn tối</Q>
+ <A>meat</A>
+</item>
+<item id="_148">
+ <cat>&lt;default&gt;</cat>
+ <Q>thịt</Q>
+ <A>beef</A>
+</item>
+<item id="_149">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thịtt bò</Q>
+ <A>chicken</A>
+</item>
+<item id="_150">
+ <cat>&lt;default&gt;</cat>
+ <Q>gà, thịt gà</Q>
+ <A>pork</A>
+</item>
+<item id="_151">
+ <cat>&lt;default&gt;</cat>
+ <Q>thịt heo</Q>
+ <A>shrimp</A>
+</item>
+<item id="_152">
+ <cat>&lt;default&gt;</cat>
+ <Q>tôm</Q>
+ <A>fish</A>
+</item>
+<item id="_153">
+ <cat>&lt;default&gt;</cat>
+ <Q>cá</Q>
+ <A>potatoes</A>
+</item>
+<item id="_154">
+ <cat>&lt;default&gt;</cat>
+ <Q>khoai tây</Q>
+ <A>rice</A>
+</item>
+<item id="_155">
+ <cat>&lt;default&gt;</cat>
+ <Q>Cơm</Q>
+ <A>salad</A>
+</item>
+<item id="_156">
+ <cat>&lt;default&gt;</cat>
+ <Q>sà lách</Q>
+ <A>salt</A>
+</item>
+<item id="_157">
+ <cat>&lt;default&gt;</cat>
+ <Q>muối</Q>
+ <A>pepper</A>
+</item>
+<item id="_158">
+ <cat>&lt;default&gt;</cat>
+ <Q>tiêu</Q>
+ <A>fish sauce</A>
+</item>
+<item id="_159">
+ <cat>&lt;default&gt;</cat>
+ <Q>nước mấm</Q>
+ <A>oil</A>
+</item>
+<item id="_160">
+ <cat>&lt;default&gt;</cat>
+ <Q>dầu ăn</Q>
+ <A>vinegar</A>
+</item>
+<item id="_161">
+ <cat>&lt;default&gt;</cat>
+ <Q>Dấm</Q>
+ <A>water</A>
+</item>
+<item id="_162">
+ <cat>&lt;default&gt;</cat>
+ <Q>nước</Q>
+ <A>Cough drops</A>
+</item>
+<item id="_163">
+ <cat>&lt;default&gt;</cat>
+ <Q>Kẹo ho</Q>
+ <A>Pills</A>
+</item>
+<item id="_164">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thuốc</Q>
+ <A>Aspirin</A>
+</item>
+<item id="_165">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thuốc nhức đầu</Q>
+ <A>Laxative</A>
+</item>
+<item id="_166">
+ <cat>&lt;default&gt;</cat>
+ <Q>Thuốc đau bụng</Q>
+ <A>I need ..</A>
+</item>
+<item id="_167">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi cần .. .</Q>
+ <A>a doctor</A>
+</item>
+<item id="_168">
+ <cat>&lt;default&gt;</cat>
+ <Q>bác sĩ</Q>
+ <A>an ambulance</A>
+</item>
+<item id="_169">
+ <cat>&lt;default&gt;</cat>
+ <Q>xe cứu thương</Q>
+ <A>I have ..</A>
+</item>
+<item id="_170">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi bị. ..</Q>
+ <A>headache</A>
+</item>
+<item id="_171">
+ <cat>&lt;default&gt;</cat>
+ <Q>Nhức đầu</Q>
+ <A>stomach</A>
+</item>
+<item id="_172">
+ <cat>&lt;default&gt;</cat>
+ <Q>ache Ðau bụng</Q>
+ <A>a sore throat Ðau</A>
+</item>
+<item id="_173">
+ <cat>&lt;default&gt;</cat>
+ <Q>cổ, khang cổ</Q>
+ <A>a cold</A>
+</item>
+<item id="_174">
+ <cat>&lt;default&gt;</cat>
+ <Q>cảm, cúm</Q>
+ <A>Colors</A>
+</item>
+<item id="_175">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu</Q>
+ <A>Blue</A>
+</item>
+<item id="_176">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu xanh da trời (sky bue)</Q>
+ <A>Green</A>
+</item>
+<item id="_177">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu xanh lá cây</Q>
+ <A>Yellow</A>
+</item>
+<item id="_178">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu vàng</Q>
+ <A>White</A>
+</item>
+<item id="_179">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu trắng</Q>
+ <A>Black</A>
+</item>
+<item id="_180">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu đen</Q>
+ <A>Red</A>
+</item>
+<item id="_181">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu đỏ</Q>
+ <A>Brown</A>
+</item>
+<item id="_182">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu đà</Q>
+ <A>Gray</A>
+</item>
+<item id="_183">
+ <cat>&lt;default&gt;</cat>
+ <Q>Màu nâu</Q>
+ <A>I like this one</A>
+</item>
+<item id="_184">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi thích cái này</Q>
+ <A>My size is .. Size</A>
+</item>
+<item id="_185">
+ <cat>&lt;default&gt;</cat>
+ <Q>của tôi là ..</Q>
+ <A>I am looking for ..</A>
+</item>
+<item id="_186">
+ <cat>&lt;default&gt;</cat>
+ <Q>Tôi đang kiếm..</Q>
+ <A>a shirt</A>
+</item>
+<item id="_187">
+ <cat>&lt;default&gt;</cat>
+ <Q>cái áo shơ mi</Q>
+ <A>pants</A>
+</item>
+<item id="_188">
+ <cat>&lt;default&gt;</cat>
+ <Q>cái quần dài</Q>
+ <A>shoes</A>
+</item>
+<item id="_189">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðôi dầy</Q>
+ <A>hat</A>
+</item>
+<item id="_190">
+ <cat>&lt;default&gt;</cat>
+ <Q>cái nón</Q>
+ <A>wallet</A>
+</item>
+<item id="_191">
+ <cat>&lt;default&gt;</cat>
+ <Q>cái bóp</Q>
+ <A>watch</A>
+</item>
+<item id="_192">
+ <cat>&lt;default&gt;</cat>
+ <Q>cái đồng hồ</Q>
+ <A>Gifts</A>
+</item>
+<item id="_193">
+ <cat>&lt;default&gt;</cat>
+ <Q>qùa tặng</Q>
+ <A>Toys</A>
+</item>
+<item id="_194">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðồ chơi</Q>
+ <A>to ask</A>
+</item>
+<item id="_195">
+ <cat>&lt;default&gt;</cat>
+ <Q>hỏi</Q>
+ <A>to know</A>
+</item>
+<item id="_196">
+ <cat>&lt;default&gt;</cat>
+ <Q>Biết</Q>
+ <A>to begin</A>
+</item>
+<item id="_197">
+ <cat>&lt;default&gt;</cat>
+ <Q>bất đầu</Q>
+ <A>to lift</A>
+</item>
+<item id="_198">
+ <cat>&lt;default&gt;</cat>
+ <Q>năng lên</Q>
+ <A>to bill</A>
+</item>
+<item id="_199">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðóng tiền, trã tiền</Q>
+ <A>to look nhìn,</A>
+</item>
+<item id="_200">
+ <cat>&lt;default&gt;</cat>
+ <Q>nghó</Q>
+ <A>to bring</A>
+</item>
+<item id="_201">
+ <cat>&lt;default&gt;</cat>
+ <Q>mang, cầm</Q>
+ <A>to make</A>
+</item>
+<item id="_202">
+ <cat>&lt;default&gt;</cat>
+ <Q>làm</Q>
+ <A>to brush</A>
+</item>
+<item id="_203">
+ <cat>&lt;default&gt;</cat>
+ <Q>chà</Q>
+ <A>to operate</A>
+</item>
+<item id="_204">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðiều khiển</Q>
+ <A>to call</A>
+</item>
+<item id="_205">
+ <cat>&lt;default&gt;</cat>
+ <Q>gọi</Q>
+ <A>to paint</A>
+</item>
+<item id="_206">
+ <cat>&lt;default&gt;</cat>
+ <Q>sơn</Q>
+ <A>to carry</A>
+</item>
+<item id="_207">
+ <cat>&lt;default&gt;</cat>
+ <Q>mang, khiêng</Q>
+ <A>to plant (seeds)</A>
+</item>
+<item id="_208">
+ <cat>&lt;default&gt;</cat>
+ <Q>trồng</Q>
+ <A>to change</A>
+</item>
+<item id="_209">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðổi</Q>
+ <A>to plant</A>
+</item>
+<item id="_210">
+ <cat>&lt;default&gt;</cat>
+ <Q>sấp đặt</Q>
+ <A>to clean</A>
+</item>
+<item id="_211">
+ <cat>&lt;default&gt;</cat>
+ <Q>Rữa</Q>
+ <A>to prepare</A>
+</item>
+<item id="_212">
+ <cat>&lt;default&gt;</cat>
+ <Q>chuẫn bị</Q>
+ <A>to close</A>
+</item>
+<item id="_213">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðóng</Q>
+ <A>to pull</A>
+</item>
+<item id="_214">
+ <cat>&lt;default&gt;</cat>
+ <Q>kéo</Q>
+ <A>to cut</A>
+</item>
+<item id="_215">
+ <cat>&lt;default&gt;</cat>
+ <Q>Cất</Q>
+ <A>to push</A>
+</item>
+<item id="_216">
+ <cat>&lt;default&gt;</cat>
+ <Q>đẩy</Q>
+ <A>to come</A>
+</item>
+<item id="_217">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðến</Q>
+ <A>to put</A>
+</item>
+<item id="_218">
+ <cat>&lt;default&gt;</cat>
+ <Q>đặt, để</Q>
+ <A>to do</A>
+</item>
+<item id="_219">
+ <cat>&lt;default&gt;</cat>
+ <Q>làm</Q>
+ <A>to remove</A>
+</item>
+<item id="_220">
+ <cat>&lt;default&gt;</cat>
+ <Q>lấy đi, xóa đi</Q>
+ <A>to drive</A>
+</item>
+<item id="_221">
+ <cat>&lt;default&gt;</cat>
+ <Q>lái</Q>
+ <A>to replace</A>
+</item>
+<item id="_222">
+ <cat>&lt;default&gt;</cat>
+ <Q>thay thế</Q>
+ <A>to enter</A>
+</item>
+<item id="_223">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ði vào</Q>
+ <A>to scrub</A>
+</item>
+<item id="_224">
+ <cat>&lt;default&gt;</cat>
+ <Q>chà</Q>
+ <A>to empty</A>
+</item>
+<item id="_225">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðổ đi, vất đi, làm hết đi</Q>
+ <A>to sit</A>
+</item>
+<item id="_226">
+ <cat>&lt;default&gt;</cat>
+ <Q>ngồi</Q>
+ <A>to finish</A>
+</item>
+<item id="_227">
+ <cat>&lt;default&gt;</cat>
+ <Q>làm xong</Q>
+ <A>to stop</A>
+</item>
+<item id="_228">
+ <cat>&lt;default&gt;</cat>
+ <Q>đứmg lại, ngừng lại</Q>
+ <A>to fold</A>
+</item>
+<item id="_229">
+ <cat>&lt;default&gt;</cat>
+ <Q>gấp, xếp</Q>
+ <A>to take</A>
+</item>
+<item id="_230">
+ <cat>&lt;default&gt;</cat>
+ <Q>lấy đi</Q>
+ <A>to forget</A>
+</item>
+<item id="_231">
+ <cat>&lt;default&gt;</cat>
+ <Q>quên</Q>
+ <A>to trim</A>
+</item>
+<item id="_232">
+ <cat>&lt;default&gt;</cat>
+ <Q>tỉa</Q>
+ <A>to get</A>
+</item>
+<item id="_233">
+ <cat>&lt;default&gt;</cat>
+ <Q>lấy, được</Q>
+ <A>to turn</A>
+</item>
+<item id="_234">
+ <cat>&lt;default&gt;</cat>
+ <Q>quẹo</Q>
+ <A>to give</A>
+</item>
+<item id="_235">
+ <cat>&lt;default&gt;</cat>
+ <Q>cho</Q>
+ <A>to use</A>
+</item>
+<item id="_236">
+ <cat>&lt;default&gt;</cat>
+ <Q>sài, dùng</Q>
+ <A>to go</A>
+</item>
+<item id="_237">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ði</Q>
+ <A>to vacuum</A>
+</item>
+<item id="_238">
+ <cat>&lt;default&gt;</cat>
+ <Q>hút</Q>
+ <A>to have</A>
+</item>
+<item id="_239">
+ <cat>&lt;default&gt;</cat>
+ <Q>có</Q>
+ <A>to water</A>
+</item>
+<item id="_240">
+ <cat>&lt;default&gt;</cat>
+ <Q>tưới nước</Q>
+ <A>to hold</A>
+</item>
+<item id="_241">
+ <cat>&lt;default&gt;</cat>
+ <Q>giữ, cầm lấy, ôm</Q>
+ <A>to wax</A>
+</item>
+<item id="_242">
+ <cat>&lt;default&gt;</cat>
+ <Q>Ðánh bống</Q>
+ <A>to iron</A>
+</item>
+</mnemosyne>

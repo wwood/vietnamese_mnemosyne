@@ -1,0 +1,19 @@
+--- Mnemosyne Data Base --- Format Version 2 ---
+(lp1
+(imnemosyne.core.mnemosyne_core
+StartTime
+p2
+(dp3
+S'date'
+p4
+cdatetime
+date
+p5
+(S'\x07\xd8\x07\x1d'
+tRp6
+sS'time'
+p7
+F1217318400
+sba(lp8
+a(lp9
+a.
